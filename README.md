@@ -22,4 +22,4 @@
 
 ### Reach me out here
 [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/Ghostblade_XD)
-<img src="https://giphy.com/gifs/ToMjGplMhvFmZ6GdWCI/html5" align="right" width="60"/>
+<img src="https://media.giphy.com/media/ToMjGplMhvFmZ6GdWCI/giphy.gif" align="right" width="60"/>
