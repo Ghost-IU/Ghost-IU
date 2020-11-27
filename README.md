@@ -17,7 +17,7 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ghost-iu&show_icons=true&locale=en&theme=dark" alt="ghost-iu" /></p>
+<p>![github stats](https://github-readme-stats.vercel.app/api?username=Ghost-IU&show_icons=true&theme=dark) </p>
 
 ### Reach me out here
 [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/Ghostblade_XD)
