@@ -16,6 +16,6 @@
   <a href="https://www.python.org" target="_blank"> 
     <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ghost-iu&show_icons=true&locale=en&layout=compact&theme=dark" alt="ghost-iu" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ghost-iu&show_icons=true&locale=en" alt="ghost-iu" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ghost-iu&show_icons=true&locale=en&theme=dark" alt="ghost-iu" /></p>
