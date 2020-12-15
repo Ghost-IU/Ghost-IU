@@ -17,7 +17,7 @@
 
 
 
-![github stats](https://github-readme-stats.vercel.app/api?username=Ghost-IU&show_icons=true&theme=dark)
+![github stats](https://github-readme-stats.vercel.app/api?username=Ghost-IU&show_icons=true&theme=dark) <br>
 [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 ### Reach me out here
