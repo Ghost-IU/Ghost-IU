@@ -18,6 +18,7 @@
 
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=Ghost-IU&show_icons=true&theme=dark)
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 ### Reach me out here
 [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/Ghostblade_XD)
