@@ -20,6 +20,6 @@
 ![github stats](https://github-readme-stats.vercel.app/api?username=Ghost-IU&show_icons=true&theme=dark) 
 
 
-# REACH ME OUT HERE
+## REACH ME OUT HERE
 [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/Ghostblade_XD)
 <img src="https://media.giphy.com/media/ToMjGplMhvFmZ6GdWCI/giphy.gif" align="right" width="60"/>
