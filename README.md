@@ -1,5 +1,5 @@
-### Hi there 👋, my name is Ghost
-#### A newb like to experiment on stuff
+### Hi there 👋, it's Ghost!
+#### A newb who likes to experiment on stuff
 
 
 - 🌱 I’m currently learning **Flutter, Python** 
