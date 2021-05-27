@@ -27,8 +27,7 @@
   <a href="https://github.com/Ghost-IU/github-readme-streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ghost-IU&theme=nightowl">
   </a>
-</p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghost-IU&langs_count=10&theme=nightowl&layout=compact" alt="Ghost-IU :: Top Langs" /></p>
+
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Ghost-IU&label=PROFILE+VIEWS&color=0e75b6&color=blueviolet" alt="ghost-iu" />
