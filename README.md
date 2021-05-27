@@ -7,6 +7,9 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ghost-IU&theme=nightowl)](https://git.io/streak-stats)
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Ghost-IU&label=Profile%20views&color=0e75b6&style=flat" alt="ghost-iu" />
+
+
 
 
 
