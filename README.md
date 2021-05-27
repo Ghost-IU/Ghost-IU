@@ -5,10 +5,15 @@
 - 🌱 I’m currently learning **Flutter, Python** 
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ghost-IU&theme=nightowl)](https://git.io/streak-stats)
+<p align="center">
+  <a href="https://github.com/Ghost-IU/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ghost-IU#version3"/>
+  </a>
+</p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Ghost-IU&show_icons=true&theme=synthwave" alt="Ghost-IU :: Profile Stats" /></p>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ghost-IU&label=Profile%20views&color=0e75b6&style=flat" alt="ghost-iu" />
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Ghost-IU&label=Profile%20views&color=0e75b6&style=flat" alt="ghost-iu" />
 
 
 
