@@ -8,7 +8,7 @@
   - :heart: Languages known : Python, C, Java and some HTML/CSS <br> <br>
   - 🌱 I’m currently learning: Flutter, PSQL <br> <br>
   - 💬 Ask me about: anything, I am happy to help <br>  <br> 
-  - 💜 Interests: Anime, Exploring out of the box... <br> <br>
+  - 💜 Things I like: Paintings & Digital Art, Exploring stuff.... <br> <br>
   </p>
   
 
