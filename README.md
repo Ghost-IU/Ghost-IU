@@ -13,7 +13,6 @@
   
 
   [![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
-  [![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)
   [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
   [![Flutter](https://img.shields.io/badge/Flutter-316192?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
   ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=C&logoColor=white)
