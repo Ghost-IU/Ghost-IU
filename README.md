@@ -17,7 +17,6 @@
   [![Flutter](https://img.shields.io/badge/Flutter-316192?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
   ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=C&logoColor=white)
   ![Conda](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 
 <br/>
