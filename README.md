@@ -5,7 +5,7 @@
   <h3 align="center"> About me : </h3>
   <h4 align="center"> 
   - 🔭 I’m currently working on: projects on Python and Flutter <br> <br>
-  - :heart: Languages known : Python, C, Java and some HTML/CSS <br> <br>
+  - :heart: Languages known : Python, C, and some HTML/CSS <br> <br>
   - 🌱 I’m currently learning: Flutter, PSQL <br> <br>
   - 💬 Ask me about: anything, I am happy to help <br>  <br> 
   - 💜 Things I like: Paintings & Digital Art, Exploring stuff.... <br> <br>
