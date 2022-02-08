@@ -21,11 +21,12 @@
 
 <br/>
 
-<p align="center">
-  <a href="https://github.com/Ghost-IU/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ghost-IU&theme=nightowl">
-  </a>
+<a href='https://github.com/Ghost-IU/github-stats-transparent'>
+  
+![Stats Overview](https://raw.githubusercontent.com/Ghost-IU/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/Ghost-IU/github-stats-transparent/output/generated/languages.svg)
 
+</a>
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Ghost-IU&label=PROFILE+VIEWS&color=0e75b6&color=blueviolet" alt="ghost-iu" />
