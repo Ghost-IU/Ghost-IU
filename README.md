@@ -1,39 +1,43 @@
-<p align="center">
-<h2 align="center"> <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" /> Hi there  👋🏻, It's GHOST !!  <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" /> </h2>
-</p>
-<p align="center">
-  <h3 align="center"> About me : </h3>
-  <h4 align="center"> 
-  - 🔭 I’m currently working on: projects on Python and Flutter <br> <br>
-  - :heart: Languages known : Python, C, and some HTML/CSS <br> <br>
-  - 🌱 I’m currently learning: Flutter, PSQL <br> <br>
-  - 💬 Ask me about: anything, I am happy to help <br>  <br> 
-  - 💜 Things I like: Paintings & Digital Art, Exploring stuff.... <br> <br>
-  </p>
-  
+## Hey There 👋, I'm Ghost!
 
-  [![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
-  [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-  [![Flutter](https://img.shields.io/badge/Flutter-316192?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
-  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=C&logoColor=white)
-  ![Conda](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
 
+An enthusiastic computer science engineer skilled in coding . Seeking to leverage solid skills in collaboration, communication & development as a programmer.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ghost-IU&label=PROFILE+VIEWS&color=0e75b6&color=blueviolet" alt="ghost-iu" />
+<br/>
+
+
+### 🧐 More About Me:
+
+- 🔭 &nbsp; I’m currently working on **Python & Linux projects**
+- 🌱 &nbsp; I’m currently learning Flutter & PSQL; 
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Ghost-IU?tab=repositories)
+- 💬 &nbsp; Ask me about anything reasonable, I am happy to help;
+- 💜 &nbsp; Things I like: Paintings & Digital Art, Exploring stuff....
+- 🕐 &nbsp; What I'm planning to learn next is : Go, Docker w/ K8 and Kotlin
+
+### 🔨 Languages and Tools:
+<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
+<a href="https://google.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/c/c.svg" alt="c" height="42px"/> </a> 
+<a href="https://flutter.dev/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/flutter/flutter.svg" alt="flutter" height="42px"/> </a> 
+<a href="https://developer.android.com" target="_blank"> <img align="left" alt="Android" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/android/android.svg"> </a>
+<a href="https://kotlinlang.org" target="_blank"><img align="left" alt="HTML" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/html/html.svg"></a>
+<a href="https://www.java.com" target="_blank"><img align="left" alt="CSS" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/css/css.svg"></a>
+<a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/jenkins/jenkins.svg" alt="jenkins" height ="42px"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/aws/aws.svg"> </a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a> <br/>
 
 <br/>
 
+### 📊 Github Stats
 <a href='https://github.com/Ghost-IU/github-stats-transparent'>
   
 ![Stats Overview](https://raw.githubusercontent.com/Ghost-IU/github-stats-transparent/output/generated/overview.svg)
 ![Most Used Languages](https://raw.githubusercontent.com/Ghost-IU/github-stats-transparent/output/generated/languages.svg)
 
+ <br>
+  
+![Gif](https://media.tenor.com/images/4173bec0452ff69a4002206c9471e73a/tenor.gif)
+
 </a>
 
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Ghost-IU&label=PROFILE+VIEWS&color=0e75b6&color=blueviolet" alt="ghost-iu" />
-
-
-[![Gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/Ghost-IU)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ghost_iu)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Ghostblade_xD)
 <br>
-![Gif](https://media.tenor.com/images/4173bec0452ff69a4002206c9471e73a/tenor.gif)
