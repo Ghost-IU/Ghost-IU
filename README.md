@@ -20,10 +20,10 @@ An enthusiastic computer science engineer skilled in coding . Seeking to leverag
 <a href="https://google.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/c/c.svg" alt="c" height="42px"/> </a> 
 <a href="https://flutter.dev/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/flutter/flutter.svg" alt="flutter" height="42px"/> </a> 
 <a href="https://developer.android.com" target="_blank"> <img align="left" alt="Android" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/android/android.svg"> </a>
-<a href="https://kotlinlang.org" target="_blank"><img align="left" alt="HTML" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/html/html.svg"></a>
-<a href="https://www.java.com" target="_blank"><img align="left" alt="CSS" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/css/css.svg"></a>
-<a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/jenkins/jenkins.svg" alt="jenkins" height ="42px"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/aws/aws.svg"> </a>
+<a href="" target="_blank"><img align="left" alt="HTML" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/html/html.svg"></a>
+<a href="" target="_blank"><img align="left" alt="CSS" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/css/css.svg"></a>
+<a href="https://www.jenkins.io/" target="_blank"> <img align="left" src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/jenkins/jenkins.svg" alt="jenkins" height ="42px"/> </a>
+<a href="https://aws.amazon.com/" target="_blank"> <img align="left" alt="AWS" height ="42px"  src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/aws/aws.svg"> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a> <br/>
 
 <br/>
