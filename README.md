@@ -36,7 +36,8 @@ An enthusiastic computer science engineer skilled in coding . Seeking to leverag
 
  <br>
   
-![Gif](https://media.tenor.com/images/4173bec0452ff69a4002206c9471e73a/tenor.gif)
+<p align="center">
+	<img width="40" src="https://github.githubassets.com/images/spinners/octocat-spinner-64.gif">
 
 </a>
 
