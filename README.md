@@ -15,7 +15,7 @@ An enthusiastic computer science engineer skilled in coding . Seeking to leverag
 - 💜 &nbsp; Things I like: Paintings & Digital Art, Exploring stuff....
 - 🕐 &nbsp; What I'm planning to learn next is : Go, Docker w/ K8 and Kotlin
 
-### 🔨 Languages and Tools:
+### 🔨 Languages and Frameworks:
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
 <a href="https://google.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/c/c.svg" alt="c" height="42px"/> </a> 
 <a href="https://flutter.dev/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/flutter/flutter.svg" alt="flutter" height="42px"/> </a> 
