@@ -9,11 +9,11 @@ An enthusiastic computer science engineer skilled in coding . Seeking to leverag
 ### 🧐 More About Me:
 
 - 🔭 &nbsp; I’m currently working on **Python & Linux projects**
-- 🌱 &nbsp; I’m currently learning Flutter & PSQL; 
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Ghost-IU?tab=repositories)
-- 💬 &nbsp; Ask me about anything reasonable, I am happy to help;
+- 🌱 &nbsp; I’m currently learning Linux Stuff & Adobe XD.
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Ghost-IU?tab=repositories).
+- 💬 &nbsp; Ask me about anything reasonable, I am happy to help.
 - 💜 &nbsp; Things I like: Paintings & Digital Art, Cars, Exploring stuff....
-- 🕐 &nbsp; What I'm planning to learn next is : Go, Docker w/ K8 and Kotlin
+- 🕐 &nbsp; What I'm planning to learn next is : Go and Kotlin.
 
 ### 🔨 Languages and Frameworks:
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
