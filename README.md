@@ -12,7 +12,7 @@ An enthusiastic computer science engineer skilled in coding . Seeking to leverag
 - 🌱 &nbsp; I’m currently learning Linux Stuff & Adobe XD.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Ghost-IU?tab=repositories).
 - 💬 &nbsp; Ask me about anything reasonable, I am happy to help.
-- 💜 &nbsp; Things I like: Paintings & Digital Art, Cars, Exploring stuff....
+- 💜 &nbsp; Things I like: Paintings & Digital Art, Anime, Cars, Exploring stuff....
 - 🕐 &nbsp; What I'm planning to learn next is : Go and Kotlin.
 
 ### 🔨 Languages and Frameworks:
